@@ -1,0 +1,2 @@
+# Harjutamine
+versiooni haldus harjutamine
